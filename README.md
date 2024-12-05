@@ -46,7 +46,7 @@ Our script allows administration to create codes by typing `/codecreator`, where
 Our script features logs system using discord webhooks, for being sure, who used codes and when.
 
 ### `🔧` **| Fully Configurable**
-Our script is fully configurable, allowing server admins to customize every aspect to fit their unique needs. From growth speed zones to selling prices, every aspect of the script can be configured in the config file.
+Our script is fully configurable, allowing server admins to customize every aspect to fit their unique needs. Every aspect of the script can be configured in the config file.
 
 <div align="center">
 
